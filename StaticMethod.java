@@ -1,4 +1,4 @@
-package teaching;
+package Teaching;
 //here we can see static and public method
 public class StaticMethod {
 	static int count;//static variable
